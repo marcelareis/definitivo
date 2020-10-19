@@ -7,7 +7,7 @@
 
 3. É necessário instalar o knex de forma global: no cmd, npm i -g knex
 
-4. Será necessário criar um banco de dados pelo postgres. Pelo cmd, dentro de backend, colocar o comando: create.database partscatalog
+4. Será necessário criar um banco de dados pelo postgres. Pelo cmd, dentro de backend, colocar o comando: create database partscatalog
 
 
 5. A Aplicação esta em duas pastas Backend e Front end.
@@ -22,4 +22,4 @@
 
 10. Para acessar o Backend , no cmd digitar npm start
 
-11. Abrir o Browser com o endereço localhost/8080, para acessar toda aplicação
+11. Abrir o Browser com o endereço http://localhost:8080, para acessar toda aplicação
