@@ -18,6 +18,6 @@ Segue abaixo alguns passos importantes e necessários:
 
 4. Comandos para rodar o sistema em Frontend. Através do cmd(prompt de comando) digite: npm run serve, acessando a porta 8080 (verificar antes se a porta esta desocupada)
 
-5. Comandos para rodar o sistema em Backebd. Através do cmd(prompt de comando) digite: npm start
+5. Comandos para rodar o sistema em Backend. Através do cmd(prompt de comando) digite: npm start
 
 6. Abrir o Browser com o endereço http://localhost:8080, para acessar toda aplicação e utilizar o sistema.
