@@ -15,9 +15,9 @@ Segue abaixo alguns passos importantes e necessários:
 
 2. Será necessário criar um banco de dados pelo postgres. Para isso através do cmd(prompt de comando):
  a) acessar a pasta backend e digite: psql -U postgres. Logo em seguida ele solicitará sua senha, portanto, insira sua senha de utilização do banco de dados. (Essa senha normalmente é cadastrada quando da instalação do postgres em sua máquina).
- b) Tendo acessado o Banco de dados, insira o comando: create database partscatalog. Esse comando irá criar um banco de dados para que os dados sejam persistidos em sua máquina.
+ b) Tendo acessado o Banco de dados, insira o comando: create database partscatalog;.Esse comando irá criar um banco de dados para que os dados sejam persistidos em sua máquina.
 
-3. Antes de acessar as aplicações as dependências devem ser instaladas. Para isso, acessar a pasta Backend através do prompt e digitar: npm i. Após acessar a pasta Frontend, também através do cmd, digitar: npm i
+3. Antes de acessar as aplicações, as dependências devem ser instaladas. Para isso, a) acessar a pasta Backend através do prompt e digitar: npm i. Após b) acessar a pasta Frontend, também através do cmd, digitar: npm i
 
 4. Comandos para rodar o sistema em Frontend. Através do cmd(prompt de comando) digite: npm run serve, acessando a porta 8080 (verificar antes se a porta esta desocupada)
 
