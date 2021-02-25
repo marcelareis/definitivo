@@ -4,8 +4,8 @@ Comandos de instalação descritos nesta documentação é compatível para Sist
 
 Comunicações importantes:
 - Para o efetivo funcionamento do sistema como pré-requisito é necessário ter o NodeJs em sua máquina.
-- Como banco de dados foi utilizado o postgres associado ao knex, utilizando a porta 3000 ((verificar antes se a porta esta desocupada).
-- A Aplicação esta em duas pastas separadas denominadas: 1)Backend e 2)Front end.
+- Como banco de dados foi utilizado o postgres associado ao knex, utilizando a porta 3000 (verificar antes se a porta esta desocupada).
+- A aplicação esta em duas pastas separadas denominadas: 1)Backend e 2)Front end.
 
 Segue abaixo alguns passos importantes e necessários:
 
