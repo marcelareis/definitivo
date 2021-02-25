@@ -13,8 +13,9 @@ Segue abaixo alguns passos importantes e necessários:
 
 1. É necessário instalar o knex de forma global, para isso, acesse o cmd(prompt) de sua máquina e insira o comando: npm i -g knex
 
-2. Será necessário criar um banco de dados pelo postgres. Para isso através do cmd(prompt de comando), acessar a pasta backend e digite: psql -U postgres. Logo em seguida ele solicitará sua senha, portanto, insira sua senha de utilização do banco de dados. (Essa senha normalmente é cadastrada quando da instalação do postgres em sua máquina).
-2. a) Tendo acessado o Banco de dados, insira o comando: create database partscatalog. Esse comando irá criar um banco de dados para que os dados sejam persistidos em sua máquina.
+2. Será necessário criar um banco de dados pelo postgres. Para isso através do cmd(prompt de comando):
+ a) acessar a pasta backend e digite: psql -U postgres. Logo em seguida ele solicitará sua senha, portanto, insira sua senha de utilização do banco de dados. (Essa senha normalmente é cadastrada quando da instalação do postgres em sua máquina).
+ b) Tendo acessado o Banco de dados, insira o comando: create database partscatalog. Esse comando irá criar um banco de dados para que os dados sejam persistidos em sua máquina.
 
 3. Antes de acessar as aplicações as dependências devem ser instaladas. Para isso, acessar a pasta Backend através do prompt e digitar: npm i. Após acessar a pasta Frontend, também através do cmd, digitar: npm i
 
