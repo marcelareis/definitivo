@@ -2,24 +2,21 @@
 
 Comandos de instalação descritos nesta documentação é compatível para Sistema Operacional Windows.
 
-1. Necessário ter o NodeJs.
+Comunicações importantes:
+- Para o efetivo funcionamento do sistema como pré-requisito é necessário ter o NodeJs em sua máquina.
+- Como banco de dados foi utilizado o postgres associado ao knex, utilizando a porta 3000 ((verificar antes se a porta esta desocupada).
+-  A Aplicação esta em duas pastas Backend e Front end.
 
-2. O Banco de dados : postgres com knex, utilizando a porta 3000 ((verificar antes se a porta esta desocupada)
+Segue abaixo alguns passos importantes e necessários:
 
-3. É necessário instalar o knex de forma global: no cmd, npm i -g knex
+1. É necessário instalar o knex de forma global, para isso, acesse o cmd(prompt) de sua máquina e insira o comando: npm i -g knex
 
-4. Será necessário criar um banco de dados pelo postgres. Pelo cmd, dentro de backend, colocar o comando: create database partscatalog
+2. Será necessário criar um banco de dados pelo postgres. Para isso através do cmd(prompt de comando) acessar a pasta backend e insira o comando: create database partscatalog.
 
-5. A Aplicação esta em duas pastas Backend e Front end.
+3. Antes de acessar as aplicações as dependencias devem ser instaladas. Para isso:  Acessar a pasta Backend através do prompt e digitar: npm i. Após acessar a pasta Frontend, também através do cmd, digitar: npm i
 
-6. Antes de acessar as aplicações as dependencias devem ser instaladas
+4. Comandos para rodar o sistema em Frontend. Através do cmd(prompt de comando) digite: npm run serve, acessando a porta 8080 (verificar antes se a porta esta desocupada)
 
-7. Na pasta Backend , dentro do cmd, digitar npm i
+5. Comandos para rodar o sistema em Backebd. Através do cmd(prompt de comando) digite: npm start
 
-8. Na pasta Frontend , dentro do cmd, digitar npm i
-
-9. Para acessar o Frontend, no cmd digitar npm run serve, acessando a porta 8080 (verificar antes se a porta esta desocupada)
-
-10. Para acessar o Backend , no cmd digitar npm start
-
-11. Abrir o Browser com o endereço http://localhost:8080, para acessar toda aplicação
+6. Abrir o Browser com o endereço http://localhost:8080, para acessar toda aplicação e utilizar o sistema.
