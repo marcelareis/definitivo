@@ -1,5 +1,6 @@
 # SistWebZen2
 
+Comandos de instalação descritos nesta documentação é compatível para Sistema Operacional Windows.
 
 1. Necessário ter o NodeJs.
 
@@ -8,7 +9,6 @@
 3. É necessário instalar o knex de forma global: no cmd, npm i -g knex
 
 4. Será necessário criar um banco de dados pelo postgres. Pelo cmd, dentro de backend, colocar o comando: create database partscatalog
-
 
 5. A Aplicação esta em duas pastas Backend e Front end.
 
