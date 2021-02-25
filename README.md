@@ -7,7 +7,7 @@ Comunicações importantes:
 - Como banco de dados foi utilizado o postgres associado ao knex, utilizando a porta 3000 (verificar antes se a porta esta desocupada);
 - A aplicação esta em duas pastas separadas denominadas: 1)Backend e 2)Front end;
 - Como pré-requisito é preciso ter conhecimentos básicos de comandos em cmd(prompt de comando);
-- Necessário ter o banco de dados postgres instalado em sua máquina e com sua conta ativa.
+- Necessário ter o banco de dados postgres instalado em sua máquina com sua conta ativa. Além disso, conhecimentos básicos em comando do postgres é bem vindo, mas não completamente necessário.
 
 Segue abaixo alguns passos importantes e necessários:
 
