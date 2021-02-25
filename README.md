@@ -23,4 +23,4 @@ Segue abaixo alguns passos importantes e necessários:
 
 5. Comandos para rodar o sistema em Backend. Através do cmd(prompt de comando) digite: npm start
 
-6. Abrir o Browser com o endereço http://localhost:8080, para acessar toda aplicação e utilizar o sistema.
+6. Abrir o Browser e colocar o endereço de acordo com a porta escolhida no passo 4, caso tenha sido a porta 8080, por exemplo, insira o endereço http://localhost:8080, para acessar toda aplicação e utilizar o sistema.
