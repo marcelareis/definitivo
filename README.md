@@ -19,7 +19,7 @@ Segue abaixo alguns passos importantes e necessários:
 
 3. Antes de acessar as aplicações, as dependências devem ser instaladas. Para isso, a) acessar a pasta Backend através do prompt e digitar: npm i. Após b) acessar a pasta Frontend, também através do cmd, e digitar: npm i
 
-4. Comandos para rodar o sistema em Frontend. Através do cmd(prompt de comando) digite: npm run serve, acessando a porta 8080 (verificar antes se a porta esta desocupada). Caso a porta esteja ocupada será necessário liberá-la e repetir o processo anterior, ou inserir o comando em outra porta, como por exemplo a 8081 ou outra de sua preferência. Para a última opção pode-se substituir o comando acima por: npm run serve -- --port8081. (ou outra numeração de porta de sua preferência).
+4. Comandos para rodar o sistema em Frontend. Através do cmd(prompt de comando) digite: npm run serve, acessando a porta 8080 (verificar antes se a porta esta desocupada). Caso a porta esteja ocupada será necessário liberá-la e repetir o processo anterior, ou inserir o comando em outra porta, como por exemplo a 8081 ou outra de sua preferência. Para a última opção pode-se substituir o comando acima por: npm run serve -- --port 8081. (ou outra numeração de porta de sua preferência).
 
 5. Comandos para rodar o sistema em Backend. Através do cmd(prompt de comando) digite: npm start
 
